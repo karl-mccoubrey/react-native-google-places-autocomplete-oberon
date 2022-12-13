@@ -1,6 +1,6 @@
 {
-  "name": "react-native-google-places-autocomplete",
-  "version": "2.5.1",
+  "name": "react-native-google-places-autocomplete-oberon",
+  "version": "2.5.2",
   "description": "Customizable Google Places autocomplete component for iOS and Android React-Native apps",
   "main": "GooglePlacesAutocomplete.js",
   "types": "GooglePlacesAutocomplete.d.ts",
@@ -8,11 +8,11 @@
     "lint": "eslint . && prettier --write .",
     "release": "npx release-it"
   },
-  "author": "Farid from Safi",
+  "author": "Karl McCoubrey",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaridSafi/react-native-google-places-autocomplete.git"
+    "url": "git+https://github.com/karl-mccoubrey/react-native-google-places-autocomplete-oberon"
   },
   "keywords": [
     "autocomplete",
@@ -24,9 +24,9 @@
     "android"
   ],
   "bugs": {
-    "url": "https://github.com/FaridSafi/react-native-google-places-autocomplete/issues"
+    "url": "https://github.com/karl-mccoubrey/react-native-google-places-autocomplete-oberon/issues"
   },
-  "homepage": "https://github.com/FaridSafi/react-native-google-places-autocomplete#readme",
+  "homepage": "https://github.com/karl-mccoubrey/react-native-google-places-autocomplete-oberon#readme",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.7.2",
